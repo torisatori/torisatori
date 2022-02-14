@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @torisatori
 - 👀 I’m interested in ... data shenanigans
 - 🌱 I’m currently learning ... about APIs, Python, SQL and data analysis tools.  (I'm working on my final project for grad school.)
-- 💞️ I’m looking to collaborate on ... dad jokes
-- 📫 How to reach me ... smoke signals
+- 📫 How to reach me ... https://www.linkedin.com/in/vtoricox/
 
 <!---
 torisatori/torisatori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
