@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @torisatori
-- 👀 I’m interested in making pottery and learning more about how to use Python and SQL to do fun things with data
-- 🌱 I’m currently learning about pottery listings on Etsy.  (I'm working on my final project for grad school.)
+- 👀 I’m a data engineer (SQL/Python). 
 - 📫 How to reach me ... https://www.linkedin.com/in/vtoricox/
 
 <!---
